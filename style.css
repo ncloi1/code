@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+ background: ;
+ color: ;
+ -webkit-font-smoothing: antialiased;
+}
+
+body, input, button {
+ font-size: ;
+ font-family: ;
+}
+
+button {
+ cursor: pointer;
+}
+/*сверху css reset*/
+body {
+    background-size: 100%;
+    background-repeat: no-repeat;
+   }
+.textCity {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: -12px;
+        margin-bottom: 0px;
+}
+.startImg {
+    height: 80px;
+    width: 80px;
+}
+.startImgText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}
+.gradus {
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.days {
+    color: white;
+    padding-left: 30px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-weather0 {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container_0 {
+ padding-left: 30px;
+}
+
+.block1 {
+    display:inline-block;
+    background: rgba(200, 200, 200, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather1 {
+    height: 50px;
+    width: 50px;
+}
+.block2 {
+    display:inline-block;
+    background: rgba(255, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather2 {
+    height: 50px;
+    width: 50px;
+}
+.block3 {
+    display:inline-block;
+    background: rgba(255, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather3 {
+    height: 50px;
+    width: 50px;
+}
+.block4 {
+    display:inline-block;
+    background: rgba(255, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather4 {
+    height: 50px;
+    width: 50px;
+}
+.block5 {
+    display:inline-block;
+    background: rgba(255, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather5 {
+    height: 50px;
+    width: 50px;
+}
+.block6 {
+    display:inline-block;
+    background: rgba(255, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather6 {
+    height: 50px;
+    width: 50px;
+}
+.block7 {
+    display:inline-block;
+    background: rgba(255, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 150px;
+    width: 14%;
+}
+.weather7 {
+    height: 50px;
+    width: 50px;
+}
+.textDetails {
+    color: white;
+    padding-left: 30px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr_1 {
+    padding-left: 5px;
+    width: 40%;
+    height: 0px;
+    margin-right: 5px;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+.hr_2 {
+    padding-left: 5px;
+    width: 150px;
+    height: 0px;
+    margin-right: 5px;
+    margin-left: 630px;
+    margin-top: -2px;
+    margin-bottom: 1px;
+}
+.nightGradus {
+    size: 0.5px;
+    color: rgb(150, 150, 150);
+}
+.sunrise {
+    width: 10px;
+    height: 10px;
+}
+.sunset {
+    width: 20px;
+    height: 20px;
+}

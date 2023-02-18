@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+ background: ;
+ color: ;
+ -webkit-font-smoothing: antialiased;
+}
+
+body, input, button {
+ font-size: ;
+ font-family: ;
+}
+
+button {
+ cursor: pointer;
+}
+/*все что написанно сверху - это reset css*/ 
+.container_1 {
+    display: flex;
+    color: white;
+
+}
+.item_a {
+    padding-left: 30px;
+    font-size: 10px;
+    border: 1px solid rgba(192, 192, 192, 0);
+    flex-basis: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item_1 {
+
+}
+.item_2 {
+
+}
+.item_3 {
+
+}
+.item_4 {
+
+}
+.container_2 {
+    display: flex;
+    color: white;
+
+}
+.item_b {
+    padding-left: 30px;
+    font-size: 10px;
+    border: 1px solid rgba(192, 192, 192, 0);
+    flex-basis: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item_5 {
+
+}
+.item_6 {
+
+}
+.item_7 {
+
+}
+.item_8 {
+
+}
